@@ -1,7 +1,7 @@
 # PROJECT PROGRESS TRACKER
 
 ## Overall Status: IN PROGRESS
-**Current Session:** 6 / 12
+**Current Session:** 7 / 12
 **Dataset Downloaded:** ✅
 **Notebook Created:** ✅
 **GitHub Repo Created:** ✅
@@ -18,7 +18,7 @@
 | 4 | Cleaning — Price Column | ✅ Completed | 2026-03-09 | Price already numeric (no parsing needed), IQR bounds documented, price_lakh column added, apply()/regex/try-except taught via demo |
 | 5 | Cleaning — Area & Feature Engineering | ✅ Completed | 2026-03-09 | Size already in sqft (225/Marla), created price_per_sqft, size_marla, bedroom_group, price_band; .map()/pd.cut() taught via code + demo |
 | 6 | Missing Values & Outliers | ✅ Completed | 2026-03-10 | Dropped 76 NaN-size rows, removed ~190 outliers (price/size/ppsf bounds), df_clean saved to CSV, 3 charts saved |
-| 7 | Summary Statistics & Grouped Analysis | ⬜ Not Started | — | — |
+| 7 | Summary Statistics & Grouped Analysis | ✅ Completed | 2026-03-11 | City/bedroom/location groupby, crosstab, pivot tables, top 15 expensive & affordable locations, key patterns narrative |
 | 8 | Visualizations 1-4 | ⬜ Not Started | — | — |
 | 9 | Visualizations 5-7 | ⬜ Not Started | — | — |
 | 10 | Visualizations 8-10 | ⬜ Not Started | — | — |
