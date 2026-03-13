@@ -28,5 +28,14 @@ Thumbs.db
 *.swp
 *.swo
 
-# Claude Code (keep CLAUDE.md, exclude local settings)
-.claude/settings.local.json
+# Intermediate/cleaning charts
+images/price_boxplot_before.png
+images/price_boxplot_before_after.png
+images/price_histogram_clean.png
+
+# Claude Code
+.claude/
+CLAUDE.md
+SESSIONS.md
+PROGRESS.md
+SETUP_GUIDE.md
