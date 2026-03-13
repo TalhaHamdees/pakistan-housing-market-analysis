@@ -1,7 +1,7 @@
 # PROJECT PROGRESS TRACKER
 
 ## Overall Status: IN PROGRESS
-**Current Session:** 8 / 12
+**Current Session:** 9 / 12
 **Dataset Downloaded:** ✅
 **Notebook Created:** ✅
 **GitHub Repo Created:** ✅
@@ -20,7 +20,7 @@
 | 6 | Missing Values & Outliers | ✅ Completed | 2026-03-10 | Dropped 76 NaN-size rows, removed ~190 outliers (price/size/ppsf bounds), df_clean saved to CSV, 3 charts saved |
 | 7 | Summary Statistics & Grouped Analysis | ✅ Completed | 2026-03-11 | City/bedroom/location groupby, crosstab, pivot tables, top 15 expensive & affordable locations, key patterns narrative |
 | 8 | Visualizations 1-4 | ✅ Completed | 2026-03-12 | Price distribution (hist+KDE), price by city (boxplot), price/sqft by city (hbar), bedroom distribution (bar+pie). All saved to images/ |
-| 9 | Visualizations 5-7 | ⬜ Not Started | — | — |
+| 9 | Visualizations 5-7 | ✅ Completed | 2026-03-13 | Price vs area scatter (hue=city), grouped bar (bedrooms×city), correlation heatmap. All saved to images/ |
 | 10 | Visualizations 8-10 | ⬜ Not Started | — | — |
 | 11 | Investor Memo & Narrative | ⬜ Not Started | — | — |
 | 12 | Polish, README & Publish | ⬜ Not Started | — | — |
