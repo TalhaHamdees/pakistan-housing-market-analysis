@@ -1,7 +1,7 @@
 # PROJECT PROGRESS TRACKER
 
 ## Overall Status: IN PROGRESS
-**Current Session:** 10 / 12
+**Current Session:** 11 / 12
 **Dataset Downloaded:** ✅
 **Notebook Created:** ✅
 **GitHub Repo Created:** ✅
@@ -22,7 +22,7 @@
 | 8 | Visualizations 1-4 | ✅ Completed | 2026-03-12 | Price distribution (hist+KDE), price by city (boxplot), price/sqft by city (hbar), bedroom distribution (bar+pie). All saved to images/ |
 | 9 | Visualizations 5-7 | ✅ Completed | 2026-03-13 | Price vs area scatter (hue=city), grouped bar (bedrooms×city), correlation heatmap. All saved to images/ |
 | 10 | Visualizations 8-10 | ✅ Completed | 2026-03-13 | Islamabad top 15 neighborhoods (hbar), price band by city (stacked %), price/sqft heatmap city×bedrooms. All saved to images/ |
-| 11 | Investor Memo & Narrative | ⬜ Not Started | — | — |
+| 11 | Investor Memo & Narrative | ✅ Completed | 2026-03-13 | Section 10 added: 6 markdown cells with investor-focused narrative (market overview, geographic insights, property types, price drivers, limitations) |
 | 12 | Polish, README & Publish | ⬜ Not Started | — | — |
 
 ## Status Legend
